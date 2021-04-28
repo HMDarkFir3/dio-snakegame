@@ -1,1 +1,12 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
+  width: 95;
+  height: 95vh;
+}
+
+h1 {
+  text-align: center;
+}
