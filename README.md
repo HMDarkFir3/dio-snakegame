@@ -28,7 +28,7 @@
 
 ## 📋 Sobre
 
-Clone da interface do Instagram.
+Jogo da cobrinha.
 
 ---
 
